@@ -8,3 +8,11 @@ In here I developed a full-stack application(with `CRUD` Operations) and Deploye
 
 # Demo Youtube Link
 https://www.youtube.com/watch?v=zHkdY8E762I
+
+# Contributing
+Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change. Thanks!
+
+Happy Coding!!!
+
+## Copyright
+© KAVINDU™
