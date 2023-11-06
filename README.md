@@ -1,7 +1,7 @@
 # Online-Bookstore-System-on-Cloud-Infrastructure
 Spring Boot React Full-stack Application Deploy on AWS
 
-![1024px-Amazon_Web_Services_Logo svg](https://user-images.githubusercontent.com/80127637/211138775-61dcfae0-4763-4d44-bdfd-2faa8022ae8d.png | width=100)
+
 
 <img src="https://user-images.githubusercontent.com/80127637/211138775-61dcfae0-4763-4d44-bdfd-2faa8022ae8d.png" width="300">
 
